@@ -1,0 +1,20 @@
+{
+  "name": "WebTemplateViewer",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Daisuke Nishimura <d@someonesgarden.org>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "masonry": "^4.1.1"
+  }
+}
